@@ -1,0 +1,35 @@
+h2{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    align-items: center;
+    height: 380px;
+    width: 150px;
+}
+
+#td1{
+    background-color: #8ecae6;
+}
+
+#td2{
+    background-color: #219ebc;
+}
+
+#td3{
+    background-color:#023047 ;
+}
+#td4{
+    background-color:#ffb703 ;
+}
+#td5{
+    background-color:#fb8500 ;
+}
+    
+
